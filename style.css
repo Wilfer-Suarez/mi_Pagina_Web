@@ -506,35 +506,39 @@ div.derechos {
 
 div.imghabilidades {
     .letter1 {
-        animation-delay: calc(15.0s / 8 * (8 - 1) * -1);
+        animation-delay: calc(15.0s / 9 * (9 - 1) * -1);
     }
 
     .letter2 {
-        animation-delay: calc(15.0s / 8 * (8 - 2) * -1);
+        animation-delay: calc(15.0s / 9 * (9 - 2) * -1);
     }
 
     .letter3 {
-        animation-delay: calc(15.0s / 8 * (8 - 3) * -1);
+        animation-delay: calc(15.0s / 9 * (9 - 3) * -1);
     }
 
     .letter4 {
-        animation-delay: calc(15.0s / 8 * (8 - 4) * -1);
+        animation-delay: calc(15.0s / 9 * (9 - 4) * -1);
     }
 
     .letter5 {
-        animation-delay: calc(15.0s / 8 * (8 - 5) * -1);
+        animation-delay: calc(15.0s / 9 * (9 - 5) * -1);
     }
 
     .letter6 {
-        animation-delay: calc(15.0s / 8 * (8 - 6) * -1);
+        animation-delay: calc(15.0s / 9 * (9 - 6) * -1);
     }
 
     .letter7 {
-        animation-delay: calc(15.0s / 8 * (8 - 7) * -1);
+        animation-delay: calc(15.0s / 9 * (9 - 7) * -1);
     }
 
     .letter8 {
-        animation-delay: calc(15.0s / 8 * (8 - 8) * -1);
+        animation-delay: calc(15.0s / 9 * (9 - 8) * -1);
+    }
+
+    .letter9 {
+        animation-delay: calc(15.0s / 9 * (9 - 9) * -1);
     }
 }
 
